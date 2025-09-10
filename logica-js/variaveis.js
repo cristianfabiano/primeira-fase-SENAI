@@ -22,4 +22,4 @@ console.log(fruta[2])
 // console.log("Meu nome é "+ nome + " "+ sobrenome + " e minha idade é " + idade + " anos")
 
 
-//console.log(`Meu nome é ${nome} ${Campigotto} e minha idade é ${28} anos`)
+//console.log(`Meu nome é ${nome} ${sobrenome} e minha idade é ${idade} anos`)
