@@ -19,5 +19,9 @@ const alunosDoSenai = [
     }
 ]
 
-console.log(`O usuario selecionado é ${alunosDoSenai[2].nome} O email selecionado é ${alunosDoSenai[2].email} A matricula selecionada é ${alunosDoSenai[2].matricula} A idade é ${alunosDoSenai[2].idade}`)
+console.log(`O usuario selecionado é ${alunosDoSenai[2].nome}
+    
+    O email selecionado é ${alunosDoSenai[2].email} 
+     A matricula selecionada é ${alunosDoSenai[2].matricula}
+      A idade é ${alunosDoSenai[2].idade}`)
 
