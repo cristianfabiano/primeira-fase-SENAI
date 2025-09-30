@@ -14,9 +14,9 @@
 // idade = "volte ao inicio"
 // alert(idade)
 
-const amor = "Meu primeiro amor SZ"
+const amor = "Você tem mais de 18 anos ??"
 alert(amor)
 alert(amor)
-let = amor2 = "Meus segundo amor "
+let = amor2 = "Você ama Carros Limpos ?? "
 
 var antigao
