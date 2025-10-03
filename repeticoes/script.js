@@ -13,5 +13,5 @@ while(contador < 2){
 
     console.log("contador: " + contador)
     contador = contador +1
-
+    console.log("contador: " + contador)
 }

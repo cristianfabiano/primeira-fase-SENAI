@@ -33,3 +33,21 @@
 // for(let i =0; i<frutas.length; i++){
 //     console.log("fruta: ", frutas[i])
 // }
+// let i = 0
+// while(i<3){
+//     alert("Valor do i: " + i)
+//     i++
+// }
+
+// for(let i = 0;i<3; i++){
+//   alert("Valor do i: " + i)
+// }
+
+
+
+
+const nomes = ["Dona Bete", "Mano Juca", "Lucio Fernando", "Capitão Ganso"]
+
+for(let i = 0; i<=4; i++){
+    alert(nomes[i])
+}
