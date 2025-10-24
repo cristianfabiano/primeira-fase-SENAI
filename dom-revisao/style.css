@@ -1,0 +1,9 @@
+button{
+    background-color: firebrick ;
+    color: aliceblue;
+    border: none;
+    border-radius: 15px;
+}
+#btCadastrar{
+    color: azure;
+}
