@@ -1,8 +1,5 @@
-
-*{background-color: rgba(255, 103, 2, 0.918);}
-
 button{
-    background-color: rgb(6, 10, 12) ;
+    background-color: firebrick ;
     color: aliceblue;
     border: none;
     border-radius: 15px;
