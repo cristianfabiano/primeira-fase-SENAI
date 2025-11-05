@@ -23,6 +23,7 @@ a {
 
 .container {
     display: flex;
+    flex-wrap: wrap;
 }
 
 nav {
@@ -67,13 +68,38 @@ main {
     background-color: #ccc;
 
     section {
+
         padding: 20px;
 
-        &#esportes {}
+        h2{
+            margin-bottom: 20px;
+        }
 
+        p{
+            line-height: 1.5;
+        }
+        
+        h3,h4{
+            margin-bottom: 15px;
+        }
+        article{
+            padding: 10px;
+        }
+
+        &#esportes{
+            p{
+        text-align: justify;
+        }
     }
-}
 
+    &#economia{
+        article{
+            width: 300px;
+        }
+    }
+
+
+    }}
 
 footer {
     background-color: #666;
